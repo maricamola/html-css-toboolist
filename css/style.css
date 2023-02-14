@@ -1,0 +1,68 @@
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #F6F8F9;
+}
+
+header{
+  background-color: white;
+}
+
+.header-top img{
+  width: 60px;
+  max-width: 100%;
+}
+
+
+main {
+  background-color:white;
+  width: 500px;
+  padding-right: 50px;
+  padding-left: 50px;
+  width: 800px;
+  height: 1000px;
+  margin: 0 auto;
+  margin-top: 50px;
+  
+}
+
+.titolo{
+  font-size: 40px;
+  display: inline-block;
+}
+
+img{
+  vertical-align: middle;
+}
+
+.addtask , .addsection {
+text-align: center;
+font-size: 15px;
+padding: 8px;
+border-radius: 5px;
+margin-top: 15px;
+margin-bottom: 10px;
+}
+
+.addtask{
+background-color: #47ADF1 ;
+color: white;
+border: #47ADF1;
+}
+
+.addsection{
+background-color: white;
+color: grey;
+border:
+}
+
+.add{
+  border-bottom: #47ADF1;
+}
+
