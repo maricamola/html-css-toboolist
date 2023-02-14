@@ -19,7 +19,6 @@ header{
   max-width: 100%;
 }
 
-
 main {
   background-color:white;
   width: 500px;
@@ -29,7 +28,11 @@ main {
   height: 1000px;
   margin: 0 auto;
   margin-top: 50px;
-  
+  border-radius: 20px;
+}
+
+.contenuto1{
+  border-top: 1px solid lightgray;
 }
 
 .titolo{
@@ -61,10 +64,6 @@ border: #47ADF1;
 background-color: white;
 color: grey;
 border: 1px solid grey
-}
-
-.contenuto1{
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 .namelist{
@@ -145,6 +144,19 @@ margin-top: 20px;
   color: white;
 }
 
+.verified{
+  border-radius: 50%;
+  color: green;
+  border: 1px solid green;
+  padding: 3px;
+}
+
+.cross{
+  border-radius: 50%;
+  color: red;
+  border: 1px solid red;
+  padding: 3px;
+}
 
 
 
